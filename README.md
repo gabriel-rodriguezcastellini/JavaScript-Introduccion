@@ -1,0 +1,1 @@
+[![CodeQL](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/github-code-scanning/codeql)
