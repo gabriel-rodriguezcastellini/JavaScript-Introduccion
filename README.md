@@ -1,2 +1,3 @@
 [![CodeQL](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/github-code-scanning/codeql)
 [![Labeler](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/label.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/label.yml)
+[![Manual workflow](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/manual.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/JavaScript-Introduccion/actions/workflows/manual.yml)
